@@ -7,4 +7,7 @@ void main()
     print(name);
 
 
+    var x = ["Dave","Dianne","Domique"];
+    print(x);
+
 }
