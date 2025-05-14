@@ -12,6 +12,7 @@ void main() {
   y = 20;
   print(x);
   print(j);
+  print(y);
 
   //Hello World
 }
